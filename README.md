@@ -1,6 +1,6 @@
 # Ingenier-a_SoftwareII
 
-*Integrantes*
+*Integrantes:*
 - Almeida Garofalo Alan Joel
 - Flores Ortiz Jose Miguel
 
